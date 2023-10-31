@@ -1,5 +1,5 @@
-👋 Hello, World! I'm Ravi
-🚀 Front-end Developer | 🌐 Web Enthusiast | 📚 Continuous Learner
+- 👋 Hello, World! I'm Ravi
+- 🚀 Front-end Developer | 🌐 Web Enthusiast | 📚 Continuous Learner
 🔧 Crafting code with passion and coffee ☕
 🌟 Open source contributor and technology enthusiast
 💡 Sharing knowledge and collaborating for a better digital world
